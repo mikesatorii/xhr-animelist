@@ -1,0 +1,64 @@
+{
+    "animes": [
+        {
+            "nombre": "Naruto",
+            "sinopsis": "Naruto Uzumaki es un joven ninja con el sueño de convertirse en el Hokage, el líder y el ninja más fuerte de su aldea. Sin embargo, es despreciado por los aldeanos debido a que lleva sellado dentro de sí al demonio Zorro de Nueve Colas, que atacó la aldea en el pasado. A lo largo de la serie, Naruto se enfrenta a diversos desafíos mientras forma amistades y descubre más sobre su pasado y su destino.",
+            "portada": "https://imgs.search.brave.com/cSuU7LPnLgA-wXJ1FpaMag9qjeS6ULxIa0giUlEdE7g/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS8xNC82/Ny9IZWE4NE0uanBn"
+        },
+        {
+            "nombre": "Attack on Titan (Shingeki no Kyojin)",
+            "sinopsis": "La humanidad está al borde de la extinción debido a los ataques de los Titanes, seres gigantescos que devoran personas. La serie sigue a Eren Yeager, su hermana adoptiva Mikasa Ackerman y su amigo Armin Arlert, quienes se unen al ejército para luchar contra los Titanes después de que su ciudad es destruida y su madre es devorada por uno de estos monstruos.",
+            "portada": "https://imgs.search.brave.com/T3W7UIZiYMXMdOMctEeG1x0QdkrQIPHdhYwiAnuZtTY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGVub2ZnZWVrLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MC8xMi9BdHRhY2st/T24tVGl0YW4tVGh1/bmRlci1TcGVhci1B/dHRhY2stT24tQXJt/b3JlZC1UaXRhbi5q/cGc_cmVzaXplPTEw/MjQsNTYy"
+        },
+        {
+            "nombre": "One Piece",
+            "sinopsis": "Monkey D. Luffy es un joven pirata cuyo cuerpo ganó la capacidad de estirarse como goma tras comer una fruta del diablo. Inspirado por su ídolo Shanks, Luffy y su tripulación, los Piratas del Sombrero de Paja, recorren el Grand Line en busca del One Piece, el tesoro más grande del mundo, para convertirse en el Rey de los Piratas.",
+            "portada": "https://imgs.search.brave.com/dftdhb9CjiUp7yeLqHgoH1JVsL0IZ1TTMJWf_0_wAv4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQvb25lLXBpZWNl/LXBpY3R1cmVzLWJq/bTl0ZGZmOXl6Z3Vv/dXAuanBn"
+        },
+        {
+            "nombre": "Death Note",
+            "sinopsis": "Light Yagami, un estudiante de secundaria, encuentra un cuaderno llamado Death Note, que tiene el poder de matar a cualquier persona cuyo nombre sea escrito en él. Light decide usar el cuaderno para eliminar a los criminales del mundo y convertirse en un dios. Sin embargo, sus acciones atraen la atención del misterioso detective L, que intenta detenerlo.",
+            "portada": "https://imgs.search.brave.com/4OQzBlhtmbX2rlHDasV1Z28kAxialVOuF0ktlQuunI8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC9rSnRuVDMy/LmpwZw"
+        },
+        {
+            "nombre": "Fullmetal Alchemist: Brotherhood",
+            "sinopsis": "Los hermanos Edward y Alphonse Elric intentan usar la alquimia para resucitar a su madre fallecida, pero el intento falla y tiene consecuencias desastrosas: Edward pierde un brazo y una pierna, y Alphonse pierde todo su cuerpo, quedando su alma atrapada en una armadura. Buscan la legendaria Piedra Filosofal para recuperar sus cuerpos.",
+            "portada": "https://imgs.search.brave.com/u9Uc2AslMK4VLNB6E6fSLbwBnFV3XLYCjpy2aA6vvsQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQvZnVsbG1ldGFs/LWFsY2hlbWlzdC1i/cm90aGVyaG9vZC1w/aWN0dXJlcy1qcTMz/bXZ5aHhmc20xZnZ4/LmpwZw"
+        },
+        {
+            "nombre": "My Hero Academia (Boku no Hero Academia)",
+            "sinopsis": "En un mundo donde la mayoría de la población tiene superpoderes llamados 'quirks', Izuku Midoriya, un joven sin poderes, sueña con convertirse en el héroe número uno. Después de un encuentro con su ídolo All Might, el héroe más grande de todos, Izuku es aceptado en la prestigiosa Academia U.A., donde entrenan a los héroes del futuro.",
+            "portada": "https://imgs.search.brave.com/EwoF13Ey_9EiY3g7x_jo7eJhpsGOCdL3DVC-IFTBEnA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDE4NzQw/MzgucG5n"
+        },
+        {
+            "nombre": "Sword Art Online",
+            "sinopsis": "En el año 2022, miles de jugadores quedan atrapados en el juego de realidad virtual Sword Art Online, donde la única forma de escapar es completando el juego. Si mueren en el juego, mueren en la vida real. Kirito, un jugador solitario, se enfrenta a varios desafíos y peligros mientras intenta sobrevivir y liberar a todos.",
+            "portada": "https://imgs.search.brave.com/Y2YN6tZqNexlBG0moDkwtKOX4BRes5lZoE6XUtp8lFE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzZXQuY29t/L3cvZnVsbC9jLzUv/Zi80OTUyMTQuanBn"
+        },
+        {
+            "nombre": "Tokyo Ghoul",
+            "sinopsis": "Ken Kaneki, un estudiante universitario, sobrevive a un encuentro casi fatal con un ghoul, una criatura que se alimenta de carne humana. Después de una operación de emergencia, descubre que se ha convertido en mitad ghoul. Ken lucha por mantener su humanidad mientras se adapta a su nueva vida y las oscuras realidades de la sociedad ghoul.",
+            "portada": "https://imgs.search.brave.com/_YpCl7hzvaQfhIRKIs6a_od38QV1tLqvapDYybN-wHU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvNDMz/MDczLmpwZw"
+        },
+        {
+            "nombre": "Demon Slayer (Kimetsu no Yaiba)",
+            "sinopsis": "Tanjiro Kamado, un joven bondadoso, ve su vida destrozada cuando su familia es asesinada por demonios y su hermana Nezuko se convierte en uno de ellos. Determinado a devolverle su humanidad y vengar a su familia, Tanjiro se convierte en un cazador de demonios, enfrentándose a monstruos aterradores y descubriendo secretos oscuros en el camino.",
+            "portada": "https://imgs.search.brave.com/GXkylAGhi--oQiVUUM0KzsvTRPZpWuNJWB3dp6EIgn8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQvZGVtb24tc2xh/eWVyLWFuaW1lLXZ5/MzdhdXRmbzgyanZm/dDcuanBn"
+        },
+        {
+            "nombre": "Hunter x Hunter",
+            "sinopsis": "Gon Freecss descubre que su padre, a quien creía muerto, es en realidad un legendario cazador, un miembro de una élite de individuos que se especializan en encontrar tesoros, criaturas exóticas y otras personas. Decidido a seguir los pasos de su padre, Gon se embarca en un viaje para convertirse en un cazador, enfrentando diversas pruebas y peligros.",
+            "portada": "https://imgs.search.brave.com/YBRk1jVGNAbRd_8V3pMmlHn7cEoxd529SCz1c611ZGQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvMTA4/NzU2OS5qcGc"
+        },
+        {
+            "nombre": "Naruto",
+            "sinopsis": "Naruto Uzumaki es un joven ninja con el sueño de convertirse en el Hokage, el líder y el ninja más fuerte de su aldea. Sin embargo, es despreciado por los aldeanos debido a que lleva sellado dentro de sí al demonio Zorro de Nueve Colas, que atacó la aldea en el pasado. A lo largo de la serie, Naruto se enfrenta a diversos desafíos mientras forma amistades y descubre más sobre su pasado y su destino.",
+            "portada": "https://imgs.search.brave.com/cSuU7LPnLgA-wXJ1FpaMag9qjeS6ULxIa0giUlEdE7g/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS8xNC82/Ny9IZWE4NE0uanBn"
+        },
+        {
+            "nombre": "Attack on Titan (Shingeki no Kyojin)",
+            "sinopsis": "La humanidad está al borde de la extinción debido a los ataques de los Titanes, seres gigantescos que devoran personas. La serie sigue a Eren Yeager, su hermana adoptiva Mikasa Ackerman y su amigo Armin Arlert, quienes se unen al ejército para luchar contra los Titanes después de que su ciudad es destruida y su madre es devorada por uno de estos monstruos.",
+            "portada": "https://imgs.search.brave.com/T3W7UIZiYMXMdOMctEeG1x0QdkrQIPHdhYwiAnuZtTY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGVub2ZnZWVrLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MC8xMi9BdHRhY2st/T24tVGl0YW4tVGh1/bmRlci1TcGVhci1B/dHRhY2stT24tQXJt/b3JlZC1UaXRhbi5q/cGc_cmVzaXplPTEw/MjQsNTYy"
+        }
+    ]
+}
