@@ -7,6 +7,7 @@ function loadJSON(callback) {
             callback(JSON.parse(xhr.responseText));
         }
     };
+    
     xhr.send(null);
 }
 
