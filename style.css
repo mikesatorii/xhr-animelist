@@ -8,11 +8,6 @@ body {
     background-color: #0f0f0ffa;
     font-family: 'Poppins', sans-serif;
 }
-h1 {
-    text-align: center;
-    padding: 2rem 0;
-    color: yellow;
-}
 #anime-list {
     width: 70%;
     height: auto;
