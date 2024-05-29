@@ -38,9 +38,6 @@ h1 {
 p {
     margin: 5px 0;
 }
-#anime-list .anime h2 {
-    color: yellow;
-}
 @media screen and (max-width: 1100px) {
     #anime-list {
         width: 95%;
