@@ -25,6 +25,7 @@ function displayAnimes(data) {
 
         const animeName = document.createElement('h2');
         animeName.textContent = anime.nombre;
+        animeName.style.color = "yellow";
 
         const animeSynopsis = document.createElement('p');
         animeSynopsis.textContent = anime.sinopsis;
